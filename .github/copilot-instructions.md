@@ -1,0 +1,8 @@
+- [x] Clarify Project Requirements: Full-stack AI-powered Personal Finance Chatbot with FastAPI, Streamlit, Modal (IBM granite-3.0-1b-a4000-instruct), SQLite.
+- [x] Scaffold the Project: Directories and starter files created for backend, frontend, database, and .github.
+- [ ] Customize the Project: Implement business logic, Modal model integration, and financial calculations.
+- [ ] Install Required Extensions: None specified.
+- [ ] Compile the Project: Install dependencies and run initial tests.
+- [ ] Create and Run Task: Add tasks.json if needed.
+- [ ] Launch the Project: Run backend and frontend.
+- [ ] Ensure Documentation is Complete: README and copilot-instructions.md created and up to date.

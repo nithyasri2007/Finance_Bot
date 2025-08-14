@@ -1,0 +1,41 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+
+# Reports directory (generated files)
+reports/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+temp/
+
+# Model cache
+transformers_cache/
